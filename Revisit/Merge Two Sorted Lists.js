@@ -20,6 +20,8 @@ Output: [0]
 */
 
 function solutionOne(l1, l2) {
+    //Is it possible to do this in place?
+    //Read the solutions for this to see if there are better implementations
     if (l1 === null) return l2;
     if (l2 === null) return l1;
     let output = new ListNode(null, null);
