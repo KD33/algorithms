@@ -43,3 +43,5 @@ function solutionOne(head, n) {
     
     return head;        
 }
+
+//Related to Swapping Nodes in a Linked List & Delete N Nodes After M Nodes of a Linked List
